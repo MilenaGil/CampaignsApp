@@ -75,3 +75,21 @@ JavaScript – logika aplikacji
 CSS – stylowanie i układ aplikacji
 
 LocalStorage – przechowywanie danych po stronie przeglądarki
+
+<img width="2524" height="1330" alt="image" src="https://github.com/user-attachments/assets/31570c01-c03f-429a-9375-6d11508aeb2b" />
+
+<img width="2490" height="1325" alt="image" src="https://github.com/user-attachments/assets/de5c72be-83b0-4b2e-9fac-e8a5ce78b8a8" />
+
+<img width="2413" height="1303" alt="image" src="https://github.com/user-attachments/assets/57ca7d9a-ffa6-49b7-86a5-c42d0f8a7ac5" />
+
+<img width="1416" height="1342" alt="image" src="https://github.com/user-attachments/assets/9a2d3c6e-e0ac-4b8a-9aa4-5f85d9149fc6" />
+
+<img width="1251" height="1272" alt="image" src="https://github.com/user-attachments/assets/78b99fa6-e5ed-4e94-8e93-9dfbe1b31886" />
+
+<img width="1250" height="1325" alt="image" src="https://github.com/user-attachments/assets/f77ca30b-251f-471b-b839-d62186002694" />
+
+
+
+
+
+
