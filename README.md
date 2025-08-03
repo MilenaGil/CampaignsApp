@@ -24,9 +24,9 @@ Campaign radius in kilometers
 
 Emerald account balance – updated in real-time after campaign operations.
 
-### LocalStorage persistence – campaigns and account balance are saved and restored after page refresh.
+LocalStorage persistence – campaigns and account balance are saved and restored after page refresh.
 
-### Responsive design – works seamlessly on both desktop and mobile devices.
+Responsive design – works seamlessly on both desktop and mobile devices.
 
 ## Technologies
 React – for building the user interface
@@ -63,9 +63,9 @@ Promień kampanii w kilometrach
 
 Saldo konta Emerald – aktualizowane w czasie rzeczywistym po dodaniu, edycji lub usunięciu kampanii.
 
-### Zapisywanie danych w LocalStorage – po odświeżeniu strony wszystkie kampanie oraz saldo zostają zachowane.
+Zapisywanie danych w LocalStorage – po odświeżeniu strony wszystkie kampanie oraz saldo zostają zachowane.
 
-### Responsywny design – aplikacja działa zarówno na komputerach, jak i urządzeniach mobilnych.
+Responsywny design – aplikacja działa zarówno na komputerach, jak i urządzeniach mobilnych.
 
 ## Technologie
 React – do budowy interfejsu użytkownika
