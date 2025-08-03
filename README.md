@@ -1,9 +1,9 @@
-#[ENGLISH]
+# [ENGLISH]
 
-##Campaigns App
+## Campaigns App
 The Campaigns App was created to help users manage advertising campaigns easily and intuitively. It allows adding, editing, deleting, and displaying campaigns while also tracking the Emerald account balance, which funds the campaigns.
 
-##Features
+## Features
 Full CRUD functionality – create, edit, delete, and read campaigns.
 
 Campaign form – add detailed campaign information:
@@ -24,11 +24,11 @@ Campaign radius in kilometers
 
 Emerald account balance – updated in real-time after campaign operations.
 
-###LocalStorage persistence – campaigns and account balance are saved and restored after page refresh.
+### LocalStorage persistence – campaigns and account balance are saved and restored after page refresh.
 
-###Responsive design – works seamlessly on both desktop and mobile devices.
+### Responsive design – works seamlessly on both desktop and mobile devices.
 
-##Technologies
+## Technologies
 React – for building the user interface
 
 JavaScript – application logic
@@ -38,11 +38,11 @@ CSS – styling and layout
 LocalStorage – client-side data storage
 
 
-#[POLISH]
-##Campaigns App
+# [POLISH]
+## Campaigns App
 Aplikacja Campaigns App została stworzona w celu zarządzania kampaniami reklamowymi w prosty i intuicyjny sposób. Pozwala użytkownikom dodawać, edytować, usuwać oraz przeglądać listę kampanii, a także kontrolować saldo konta Emerald, z którego finansowane są kampanie.
 
-##Funkcjonalności
+## Funkcjonalności
 Pełen cykl CRUD – tworzenie, edycja, usuwanie oraz wyświetlanie (czytanie) kampanii.
 
 Formularz kampanii – możliwość dodania szczegółowych danych:
@@ -63,11 +63,11 @@ Promień kampanii w kilometrach
 
 Saldo konta Emerald – aktualizowane w czasie rzeczywistym po dodaniu, edycji lub usunięciu kampanii.
 
-###Zapisywanie danych w LocalStorage – po odświeżeniu strony wszystkie kampanie oraz saldo zostają zachowane.
+### Zapisywanie danych w LocalStorage – po odświeżeniu strony wszystkie kampanie oraz saldo zostają zachowane.
 
-###Responsywny design – aplikacja działa zarówno na komputerach, jak i urządzeniach mobilnych.
+### Responsywny design – aplikacja działa zarówno na komputerach, jak i urządzeniach mobilnych.
 
-##Technologie
+## Technologie
 React – do budowy interfejsu użytkownika
 
 JavaScript – logika aplikacji
